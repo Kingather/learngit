@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 Git test merge.
 Git bug issues.
 Git commit by other company other changes.
+Git commit by myself.
